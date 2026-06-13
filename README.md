@@ -60,5 +60,5 @@ class Skills extends Desenvolvedor {
 </div>
 
 <div align="center">
-  <sub>Feito com ❤️ por Felipe Gusmão • Fortaleza, CE 🇧🇷</sub>
+  <sub>Feito por Felipe Gusmão • Fortaleza, CE 🇧🇷</sub>
 </div>
