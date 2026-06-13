@@ -1,4 +1,4 @@
-import Desenvolvedora from "Guusmao";
+import Desenvolvedoror from "Guusmao";
 
 class SobreMim extends Desenvolvedora {
   nome = "Felipe Gusmão";
