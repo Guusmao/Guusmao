@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28917018/README.md)
 <!-- Header animado -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Felipe%20Gusmão&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20•%20Fortaleza,%20Brasil&descAlignY=60&descSize=18&descColor=a8b2d8" width="100%"/>
@@ -6,27 +5,8 @@
 
 <!-- SVG estilo editor de código -->
 <div align="center">
-
-```javascript
-import Desenvolvedor from "Guusmao";
-
-class SobreMim extends Desenvolvedor {
-  nome       = "Felipe Gusmão";
-  area       = "Fullstack Developer";
-  local      = "Fortaleza, Ceará, Brasil";
-  disponivel = true; // aberto a oportunidades 🚀
-}
-
-class Skills extends Desenvolvedor {
-  linguagens   = ["HTML", "CSS", "JavaScript", "React", "SQL", "C++"];
-  escolas      = ["Faculdade CDL", "IEL", "Cisco"];
-  certificados = ["Full Stack Developer", "ADS", "Curso de Redes"];
-}
-```
-
+ <img width="680" height="410" alt="code-card" src="https://github.com/user-attachments/assets/f23d3ffc-8713-40ed-acb2-3f84d390148c" />
 </div>
-
----
 
 ---
 
@@ -49,7 +29,7 @@ class Skills extends Desenvolvedor {
 
 [![GitHub](https://img.shields.io/badge/GitHub-Guusmao-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guusmao)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Gusmão-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipegusmão/)
-[![Gmail](https://img.shields.io/badge/Gmail-seu%40email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![Gmail](https://img.shields.io/badge/Gmail-seu%40email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:www.felipe_gusmao15@hotmail.com)
 
 </div>
 
